@@ -1,0 +1,197 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(179, 231, 179);
+}
+
+h1{
+    font-size: 60px;
+    font-family: monospace ;
+    text-align: center;
+    padding-top: 50px;
+    text-decoration: underline;
+    text-shadow: 2px 4px 8px;
+    color: rgb(58, 15, 11);
+    
+}
+
+
+ div{
+    float: left;
+    margin-left: 167px;
+    margin-top: 57px;
+ }
+
+
+
+
+.div-1{
+    height: 400px;
+    width: 300px;
+    background-color: burlywood;
+    border: 5px solid white;
+    border-radius: 4%;
+    margin: 15px;
+
+    
+    
+
+    
+    
+    
+}
+.div-2{
+    height: 400px;
+    width: 300px;
+    background-color: rgb(181, 135, 222);
+    border: 5px solid white;
+    border-radius: 4%;
+    margin: 15px;
+    
+   
+    
+    
+    
+}
+.div-3{
+    height: 400px;
+    width: 300px;
+    background-color: rgb(135, 222, 222);
+    border: 5px solid white;
+    border-radius: 4%;
+    margin: 15px;
+    
+    
+    
+}
+
+.div-4{
+    height: 400px;
+    width: 300px;
+    background-color: rgb(147, 222, 135);
+    border: 5px solid white;
+    border-radius: 4%;
+    margin: 15px;
+   
+    
+    
+}
+
+
+
+.div-5{
+    height: 400px;
+    width: 300px;
+    background-color: rgb(213, 222, 135);
+    border: 5px solid white;
+    border-radius: 4%;
+    margin: 15px;
+}
+
+.div-6{
+    height: 400px;
+    width: 300px;
+    background-color: rgba(231, 176, 99, 0.988);
+    border: 5px solid white;
+    border-radius: 4%;
+    margin: 15px;
+}
+
+.div-7{
+    height: 400px;
+    width: 300px;
+    background-color: rgb(222, 155, 135);
+    border: 5px solid white;
+    border-radius: 4%;
+    margin: 15px;
+}
+.div-8{
+    height: 400px;
+    width: 300px;
+    background-color: rgb(135, 173, 222);
+    border: 5px solid white;
+    border-radius: 4%;
+    margin: 15px;
+}
+
+.div-9{
+    height: 400px;
+    width: 300px;
+    background-color: rgb(222, 135, 206);
+    border: 5px solid white;
+    border-radius: 4%;
+    margin: 15px;
+}
+
+.div-10{
+    height: 400px;
+    width: 300px;
+    background-color: rgba(200, 28, 68, 0.636);
+    border: 5px solid white;
+    border-radius: 4%;
+    margin: 15px;
+}
+.div-11{
+    height: 400px;
+    width: 300px;
+    background-color: rgb(7, 147, 168);
+    border: 5px solid white;
+    border-radius: 4%;
+    margin: 15px;
+}
+.div-12{
+    height: 400px;
+    width: 300px;
+    background-color: rgb(231, 111, 6);
+    border: 5px solid white;
+    border-radius: 4%;
+    margin: 15px;
+}
+
+img{
+    width: 300px;
+    height: 215px;
+}
+
+h2{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 20px;
+
+}
+
+p{
+    font-size: 16px;
+    padding-left: 8px;
+}
+
+#link-1{
+
+    font-size: 18px;
+}
+
+
+button{
+    width: 100%;
+    height: 35px;
+    margin-top: 20px;
+    border-radius: 15%;
+    background-color: darkgreen;
+    
+}
+#link-2{
+    color: white;
+   
+}
+
+#author{
+    font-size: 19px;
+    color: rgb(96, 86, 19);
+}
+
+
+
+
